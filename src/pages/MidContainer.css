@@ -1,0 +1,12 @@
+.container1234 {
+    display: flex;
+    background-color: white;
+  }
+  
+  .child {
+    width: 33.33%;
+    text-align: center;
+    padding: 5px;
+   
+  }
+  
